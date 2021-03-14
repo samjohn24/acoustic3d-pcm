@@ -1,12 +1,12 @@
-# system info bf_time_pcm_tb on 2019.05.11.03:28:05
+# system info bf_time_pcm_tb on 2019.07.15.21:24:55
 system_info:
 name,value
 DEVICE,5CSEMA5F31C6
 DEVICE_FAMILY,Cyclone V
-GENERATION_ID,1557556076
+GENERATION_ID,1563236683
 #
 #
-# Files generated for bf_time_pcm_tb on 2019.05.11.03:28:05
+# Files generated for bf_time_pcm_tb on 2019.07.15.21:24:55
 files:
 filepath,kind,attributes,module,is_top
 /home/scarbajali/OneDrive/Projects/Master/Thesis/hardware/bf_time_pcm/de1-soc/ip/bf_time_pcm/testbench/bf_time_pcm_tb/simulation/bf_time_pcm_tb.v,VERILOG,,bf_time_pcm_tb,true
