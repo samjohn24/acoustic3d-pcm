@@ -9,8 +9,8 @@ Following is the list of dependencies and the expected location path:
 ### For testing
 
 - Avalon-ST JTAG (1.2.0): ../ip/avalon_st_jtag 
-- MIC-IF (1.3.0): ../ip/mic_if
-- bf_tester (1.0.0): ../bf_tester
+- MIC-IF (1.4.1): ../ip/mic_if
+- bf_tester (1.2.0): ../bf_tester
 
 ### For FPGA compilation
 
