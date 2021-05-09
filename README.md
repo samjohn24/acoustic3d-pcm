@@ -1,6 +1,6 @@
-# Acustic3D-pcm: A FPGA implementation of an acoustic 3D camera using a conventional time-domain Delay-and-Sum (DAS) beamformer
+# Acoustic3D-pcm: A FPGA implementation of an acoustic 3D camera using a conventional time-domain Delay-and-Sum (DAS) beamformer
 
-Implemented in a [Terasic DE1-SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=836) using [Beaglebone Black Microphone Array board](https://github.com/marcelodaher/memsarray).
+Implemented in a [Terasic DE1-SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=836) using a [Beaglebone Black Microphone Array board](https://github.com/marcelodaher/memsarray).
 
 ## Dependencies
 
