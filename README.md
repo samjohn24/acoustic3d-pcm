@@ -30,3 +30,7 @@ See the connection diagram [here](doc/bbb2de1soc.svg).
 ## Re-compiling FPGA images
 
 Clone additional dependencies and in de1-soc/ folder execute `./compile.sh`
+
+## References
+
+* CARBAJAL IPENZA, Sammy Johnatan. Efficient pulse-density modulated microphone array processing: Processamento eficiente de arranjos de microfones modulados em densidade de pulso. 2020. 1 recurso online (125 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Faculdade de Engenharia Elétrica e de Computação, Campinas, SP. ([link](http://repositorio.unicamp.br/jspui/handle/REPOSIP/356372))
